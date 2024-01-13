@@ -1,7 +1,8 @@
 Completed this project as part of my Data Science and Machine learning internship with United Network Of Professionals(UNP).key highlights:
 1.Studied and Analyzed the Bank Marketing dataset to applying ML models and present my insights.
 2.Performed various Exploratory Data Analysis to understand the data and compare the variables.
-3.Experimented with different Machine Learning algorithms, Linear Regression, Neural Networks, Bagging, and Boosting.
+3.Experimented with different Machine Learning algorithms, Logistic Regression,Decision Tree Classifier,Random Forest Classifier,Support Vector Classifier and
+K-Nearest Neighbours Classification.
 4.Compared the results to recommend the best Regression model.
 COLAB NOTEBOOK LINK:
 https://colab.research.google.com/drive/1WwS9T82ZOhpevdTDgOpKwD6E7Zmy3H8Q?usp=drive_link
